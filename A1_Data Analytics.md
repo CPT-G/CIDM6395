@@ -89,15 +89,13 @@ My pathway to mastery through the [CIDM](https://www.wtamu.edu/academics/college
 
 ### <h2 id="Contribution-Towards-the-Capstone">**Contribution Towards the Capstone**</h2>
 
-### Integration with Other Areas
-
-**Why Data Analytics is Integratable with Other Areas:**
+**Why Data Analytics is Integrable with Other Areas:**
 The courses emphasize the integral role of data analytics in various domains. The comprehensive introduction to data analytics concepts, theories, and terminologies provided by CIDM 6308 highlights its importance in supporting decision-making processes. This course equips students with essential data-analytic thinking skills, demonstrating how data analytics can be applied to optimize processes and enhance functionality. Meanwhile, CIDM 5310 offers an applied and theoretical understanding of software architecture, showcasing the significance of data analytics in building models related to forecasting and prediction. By leveraging tools like PowerBI and Azure, the course illustrates how data analytics drives data-driven decisions and improves business outcomes.
 
-**How Data Analytics is Integratable with Other Areas:**
+**How Data Analytics is Integrable with Other Areas:**
 The practical tools and techniques provided by these courses seamlessly integrate data analytics with various areas. CIDM 6308 equips students with popular data analytics tools such as database management, data preparation, business intelligence, data visualization, and machine learning. These tools are essential for organizing and analyzing data, presenting insights effectively, and supporting informed decisions. CIDM 5310 covers the preparation of data from various sources for analysis and reporting in PowerBI, using data visualization features for effective communication, and adding interactive reporting capabilities. The focus on building models for decision-making support and developing data pipelines highlights how data analytics enhances processes and functionality across different domains.
 
-**How Data Analytics is Integratable with Prior Work:**
+**How Data Analytics is Integrable with Prior Work:**
 The knowledge and skills gained from these courses can be directly applied to your previous data analytics projects. CIDM 6308 provides a solid foundation in classification and regression techniques, as well as clustering techniques, enabling you to solve various business problems and derive actionable insights. The emphasis on data preparation and visualization tools ensures that you can present data effectively and support decision-making. CIDM 5310's focus on PowerBI and Azure allows you to build advanced models for forecasting and prediction, enhancing your ability to improve business processes and outcomes. The practical skills in data pipeline development ensure efficient data handling and integrity, streamlining your projects and improving their overall effectiveness.
 
 <ins>**New Statement on Integration:**</ins></br>
