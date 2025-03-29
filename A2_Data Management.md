@@ -40,9 +40,9 @@ Furthermore, I am familiar with data preparation processes, decision trees, naiv
 ### <h4 id="Skills">**Skills:**</h4>
 
 - **`Python`** - [Pandas](https://pandas.pydata.org/docs/), [Matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/doc/stable/)
-- **`SQL`** - Complex Queries, Database Performance Optimization, Schema Design, Database Creation, Table Relationships.
-- **`Data Warehousing`** - Data Lakes, Data Marts, Data Pipelines, Cube, Rollup, Slice, Materialized Views.
-- **`ETL Processes`** - Data Extraction, Transformation, Load, Data Cleaning, Web Scraping.
+- **`SQL`** - Complex Queries, Database Performance Optimization, Schema Design, Database Creation, Table Relationships
+- **`Data Warehousing`** - Data Lakes, Data Marts, Data Pipelines, Cube, Rollup, Slice, Materialized Views
+- **`ETL Processes`** - Data Extraction, Transformation, Load, Data Cleaning, Web Scraping
 - **`Data Analysis Process`**
 - **`Business Intelligence`** - Concepts and Application in Guiding Analytics Projects
 - **`Excel`** - Advanced Data Analysis, Pivot Tables, Complex Functions, Data Visualization
@@ -50,8 +50,8 @@ Furthermore, I am familiar with data preparation processes, decision trees, naiv
 - **`Power BI`** - Data Modeling, Dashboard Creation, Report Generation
 - **`Data Modeling`** - Data Storage, Queries, Database Modeling Techniques
 - **`Data Preparation`** - Classification, Decision Tree Algorithms, Naïve Bayes, Logistic Regression, Clustering Algorithms, Text Mining
-- **`RapidMiner`** - Data Mining Tasks, Algorithm Implementation.
-- **`R`** - Data Mining Tasks, Statistical Analysis.
+- **`RapidMiner`** - Data Mining Tasks, Algorithm Implementation
+- **`R`** - Data Mining Tasks, Statistical Analysis
 
 ### <h3 id="Where I-Am-Weak">**Where I Am Weak**</h3>
 
@@ -71,7 +71,7 @@ While my understanding of ETL processes is strong, I seek more hands-on experien
 - **`Real-World Database Solutions`** - Cloud Based Design, Implementation
 - **`Advanced Data Modeling Techniques`** - SQL Optimization, Database Administration and Implementation, Advanced Normalization Techniques
 - **`R Proficiency`** - Data analysis, statistical modeling, visualization
-- **`Communication`** - Data Mining Results.
+- **`Communication`** - Data Mining Results
 
 ### <h2 id="Supporting-Evidence">**Supporting Evidence**</h2>
 
