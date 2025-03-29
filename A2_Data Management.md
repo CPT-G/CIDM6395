@@ -6,10 +6,11 @@ CPT G
 - [Introduction](#Introduction)
 - [Professor's Intent](#Professors-Intent)
 - [Competency Assessment](#Competency-Assessment)
-    - [What I Know](#What-I-Know)
-        - [Skills](#Skills)
-    - [Where I Am Weak](#Where-I-Am-Weak)
-        - [Areas for Improvement](#Areas-for-Improvement)
+  - [What I Know](#What-I-Know)
+    - [Skills](#Skills)
+  - [Where I Am Weak](#Where-I-Am-Weak)
+    - [Areas for Improvement](#Areas-for-Improvement)
+  - [What I Wish I Knew](#What-I-Wish-I-Knew)
 - [Supporting Evidence](#Supporting-Evidence)
 - [Sources of Knowledge](#Sources-of-Knowledge)
 - [Summary Statement](#Summary-Statement)
@@ -17,7 +18,7 @@ CPT G
 - [Preparedness for Portfolio and Prototype Project](#Preparedness-for-Portfolio-and-Prototype-Project)
 - [Conclusion](#Conclusion)
 
-### <h2 id="Introduction">**Introduction**</h2>
+## <h2 id="Introduction">**Introduction**</h2>
 
 The Capstone project for the [Master's of Science in Computer Information Systems and Business Analytics](https://www.wtamu.edu/academics/college-business/academics/graduate-programs/programs/mscisba-program.html) at [West Texas A&M University](https://www.wtamu.edu/) synthesizes the key curricular areas including Data Analytics, Data Management, Software Systems, and Networking and Cybersecurity. This assessment evaluates my competency in Data Management, detailing my strengths, weaknesses, and areas for improvement as I approach completion of the [Computer Information and Decision Management (CIDM)](https://www.wtamu.edu/academics/college-business/about-us/cidm-department/index.html) coursework.
 
@@ -25,7 +26,7 @@ The Capstone project for the [Master's of Science in Computer Information System
 
 The professors' intent for the data management courses was to provide a comprehensive and practical understanding of data management concepts, tools, and techniques. CIDM 6351 focused on the extraction and transformation of data from external sources, emphasizing data cleaning, normalization, and preparation for federated data persistence platforms. This course aimed to equip students with skills in ETL processes, data warehousing concepts, and data querying techniques. CIDM 6355 aimed to provide a broad introduction to data mining, covering concepts, algorithms, theories, and processes, with a focus on practical application of tools like RapidMiner and R. These courses were designed to develop students' data analytical thinking, problem-solving skills, and the ability to apply data management and mining techniques to various business contexts. The professors also emphasized the importance of communicating data mining results effectively and encouraged further learning through external resources like DataCamp, ensuring students are well-prepared for their careers in data management and analytics.
 
-### <h2 id="Competency-Assessment">**Competency Assessment**</h2>
+## <h2 id="Competency-Assessment">**Competency Assessment**</h2>
 
 ### <h3 id="What-I-Know">**What I Know**</h3>
 
@@ -37,7 +38,7 @@ In addition to programming capabilities, I have gained expertise in data warehou
 
 Furthermore, I am familiar with data preparation processes, decision trees, naive bayes classification, clustering algorithms, and neural network models. I have used RapidMiner and R to perform various data mining tasks on large datasets and apply data mining techniques to various business contexts.
 
-### <h4 id="Skills">**Skills:**</h4>
+#### <h4 id="Skills">**Skills:**</h4>
 
 - **`Python`** - [Pandas](https://pandas.pydata.org/docs/), [Matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/doc/stable/)
 - **`SQL`** - Complex Queries, Database Performance Optimization, Schema Design, Database Creation, Table Relationships
@@ -53,7 +54,7 @@ Furthermore, I am familiar with data preparation processes, decision trees, naiv
 - **`RapidMiner`** - Data Mining Tasks, Algorithm Implementation
 - **`R`** - Data Mining Tasks, Statistical Analysis
 
-### <h3 id="Where I-Am-Weak">**Where I Am Weak**</h3>
+### <h3 id="Where-I-Am-Weak">**Where I Am Weak**</h3>
 
 Despite my strengths, there are several areas I need to improve. Advanced programming paradigms, such as [Object-Oriented](https://realpython.com/python3-object-oriented-programming/) and [Functional Programming](https://realpython.com/lessons/functional-programming-python/) with [Python](https://www.python.org/), are topics I need to explore further. Tackling more complex SQL scenarios, such as nested queries and advanced join operations, remains a challenge.
 
@@ -61,7 +62,7 @@ In Excel, I need to delve into advanced features like [Power Query](https://supp
 
 While my understanding of ETL processes is strong, I seek more hands-on experience in designing and implementing database solutions for real-world scenarios, including cloud based solutions. Exploring advanced data modeling techniques and optimizing SQL queries are also priorities for improvement. Moreover, gaining practical experience in database administration and implementation, understanding advanced normalization techniques, and developing proficiency in [R](https://www.r-project.org/) for data analysis, statistical modeling, and visualization are crucial steps in my growth. I also want to improve my skills in communicating data mining results.
 
-### <h4 id="Areas-for-Improvement">**Areas for Improvement:**</h4>
+#### <h4 id="Areas-for-Improvement">**Areas for Improvement:**</h4>
 
 - **`Advanced Programming`** - Object-Oriented Programming, Functional Programming
 - **`Complex SQL`** - Nested Queries, Advanced Join Operations
@@ -73,12 +74,16 @@ While my understanding of ETL processes is strong, I seek more hands-on experien
 - **`R Proficiency`** - Data analysis, statistical modeling, visualization
 - **`Communication`** - Data Mining Results
 
-### <h2 id="Supporting-Evidence">**Supporting Evidence**</h2>
+### <h3 id="What-I-Wish-I-Knew">**What I Wish I Knew**</h3>
+
+I wish I had prioritized practical cloud data warehousing and real-time streaming experience. Deeper knowledge of data governance, NoSQL modeling, and advanced SQL optimization would have been invaluable. Also, enhanced skills in data security, privacy, and communicating insights to non-technical audiences would have greatly benefited my learning.
+
+## <h2 id="Supporting-Evidence">**Supporting Evidence**</h2>
 
 **`Data Mining and Management`**<br>
 [CIDM 6355 Data Mining Methods](https://github.com/CPT-G/CIDM6355)<br>
 
-### <h2 id="Sources-of-Knowledge">**Sources of Knowledge**</h2>
+## <h2 id="Sources-of-Knowledge">**Sources of Knowledge**</h2>
 
 - **Course Materials and Lectures:** Comprehensive curriculum covering Data Analytics, Data Management, Software Systems, and Networking and Cybersecurity, providing foundational and advanced knowledge. **Specifically, the textbooks "Data Mining for the Masses" and "Data Mining Techniques" have been invaluable resources.**
 - **Online Tutorials:** Platforms like [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/), [W3 Schools](https://www.w3schools.com/), [Professor Messer](https://www.professormesser.com/), and [FreeCodeCamp](https://www.freecodecamp.org/) have been invaluable for learning Python, SQL, Power BI, RapidMiner, Tableau, and R. They offer hands-on exercises and real-world projects, enhancing practical skills.

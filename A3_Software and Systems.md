@@ -6,11 +6,11 @@ CPT G
 - [Introduction](#Introduction)
 - [Professor's Intent](#Professors-Intent)
 - [Competency Assessment](#Competency-Assessment)
-    - [What I Know](#What-I-Know)
-        - [Skills](#Skills)
-    - [Where I Am Weak](#Where-I-Am-Weak)
-        - [Areas for Improvement](#Areas-for-Improvement)
-    - [What I Wish I Knew](#What-I-Wish-I-Knew)
+  - [What I Know](#What-I-Know)
+    - [Skills](#Skills)
+  - [Where I Am Weak](#Where-I-Am-Weak)
+    - [Areas for Improvement](#Areas-for-Improvement)
+  - [What I Wish I Knew](#What-I-Wish-I-Knew)
 - [Supporting Evidence](#Supporting-Evidence)
 - [Sources of Knowledge](#Sources-of-Knowledge)
 - [Summary Statement](#Summary-Statement)
@@ -46,7 +46,7 @@ I am competent in developing web-based applications using Python and Django fram
 - **`UX Design`** - User experience strategy
 - **`Git/GitHub`** - Version control
 
-### <h3 id="Where I-Am-Weak">**Where I Am Weak**</h3>
+### <h3 id="Where-I-Am-Weak">**Where I Am Weak**</h3>
 
 Despite my strengths, there are several areas I need to improve. I need to explore more advanced web design techniques and tools to create more dynamic and interactive web pages. I have limited experience in advanced database management concepts such as database normalization, indexing, and query optimization. While proficient in Python programming, I need to enhance skills in automating repetitive tasks using libraries such as Selenium, BeautifulSoup, and Pandas.
 
@@ -82,11 +82,11 @@ I wish I had a deeper understanding of advanced deployment techniques and market
 - **Technical Blogs and Forums:** Websites like [Stack Overflow](https://stackoverflow.com/) and [Medium](https://medium.com/) provide community support, best practices, and advanced techniques shared by experts in the field.
 - **Peer Discussions and Collaborative Projects:** Engaging with fellow students and colleagues through group projects and discussions fosters knowledge sharing and collaboration, leading to a deeper understanding of complex concepts.
 
-### <h2 id="Summary-Statement">**Summary Statement**</h3>
+### <h2 id="Summary-Statement">**Summary Statement**</h2>
 
 My pathway to mastery through the [CIDM](https://www.wtamu.edu/academics/college-business/about-us/cidm-department/index.html) curriculum has provided a robust skill set and a comprehensive understanding of various tools and techniques in Software and Systems. While I have developed proficiency in several areas, there are opportunities for growth, particularly in advanced web development, database management, automation, and Python application development. I am confident in my ability to leverage this knowledge to contribute effectively to future projects and deliver innovative software solutions.
 
-### <h2 id="Contribution-Towards-the-Capstone">**Contribution Towards the Capstone**</h3>
+### <h2 id="Contribution-Towards-the-Capstone">**Contribution Towards the Capstone**</h2>
 
 **Why Software and Systems is Integrable with Other Areas:**
 The courses emphasize the integral role of software and systems in various domains. The comprehensive introduction to web technologies, ethical considerations, and software development provided by CIDM 6303 and CIDM 6330 highlights its importance in building robust and ethical systems. These courses equip students with essential skills in developing web-based applications, aligning software projects with organizational objectives, and understanding consumer needs. By leveraging tools like Python and Django, the courses illustrate how software and systems drive innovation and improve business outcomes.
@@ -100,10 +100,10 @@ The knowledge and skills gained from these courses can be directly applied to yo
 <ins>**New Statement on Integration:**</ins></br>
 **Software and systems serve as the operational backbone that integrates data management, data analytics, and networking/cybersecurity. By developing robust web applications and APIs, we can create systems that securely manage data, analyze it for actionable insights, and ensure network security. In the capstone project, I plan to create a system that not only securely collects and stores data (networking/cybersecurity and data management) but also uses data analytics to provide actionable insights for decision-making (data analytics and software systems). Specifically, the API development skills learned in CIDM 6330 will be crucial for integrating data from various sources into a cohesive system.**
 
-### <h2 id="Preparedness-for-Portfolio-and-Prototype-Project">**Preparedness for Portfolio and Prototype Project**</h3>
+### <h2 id="Preparedness-for-Portfolio-and-Prototype-Project">**Preparedness for Portfolio and Prototype Project**</h2>
 
 I am well-prepared to apply my software and systems skills in the capstone project, leveraging my knowledge to create a comprehensive portfolio and a prototype project that showcases my proficiency and capability in delivering impactful solutions.
 
-### <h2 id="Conclusion">**Conclusion**</h3>
+### <h2 id="Conclusion">**Conclusion**</h2>
 
 The assessment of my competencies in Software and Systems reveals a solid foundation, with identified areas for improvement, such as advanced database management and Python application development. By continually enhancing my skills and knowledge in these areas, I am poised to contribute significantly to the capstone project and future endeavors, delivering robust and innovative software solutions.

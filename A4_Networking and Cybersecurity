@@ -6,11 +6,11 @@ CPT G
 - [Introduction](#Introduction)
 - [Professor's Intent](#Professors-Intent)
 - [Competency Assessment](#Competency-Assessment)
-    - [What I Know](#What-I-Know)
-        - [Skills](#Skills)
-    - [Where I Am Weak](#Where-I-Am-Weak)
-        - [Areas for Improvement](#Areas-for-Improvement)
-    - [What I Wish I Knew](#What-I-Wish-I-Knew)
+  - [What I Know](#What-I-Know)
+    - [Skills](#Skills)
+  - [Where I Am Weak](#Where-I-Am-Weak)
+    - [Areas for Improvement](#Areas-for-Improvement)
+  - [What I Wish I Knew](#What-I-Wish-I-Knew)
 - [Supporting Evidence](#Supporting-Evidence)
 - [Sources of Knowledge](#Sources-of-Knowledge)
 - [Summary Statement](#Summary-Statement)
@@ -87,7 +87,7 @@ I wish I had a deeper understanding of advanced threat intelligence platforms an
 [CIDM 6340 Network Management and Information Security](https://github.com/CPT-G/CIDM6340)<br>
 [CIDM 6341 Current Issues in Cybersecurity](https://github.com/CPT-G/CIDM6341)
 
-## <h2 id="Sources of Knowledge">**Sources of Knowledge**</h2>
+## <h2 id="Sources-of-Knowledge">**Sources of Knowledge**</h2>
 
 - **Course Materials and Lectures:** Comprehensive curriculum covering Networking and Cybersecurity, providing foundational and advanced knowledge. Specifically, course materials from CIDM 6340 and CIDM 6341 have been invaluable.
 - **Online Tutorials:** Platforms like [Cybrary](https://www.cybrary.it/), [OWASP](https://owasp.org/), and [SANS Institute](https://www.sans.org/) have been invaluable for learning network security, ethical hacking, and incident response. They offer hands-on exercises and real-world projects, enhancing practical skills.
@@ -95,11 +95,11 @@ I wish I had a deeper understanding of advanced threat intelligence platforms an
 - **Technical Blogs and Forums:** Websites like [Krebs on Security](https://krebsonsecurity.com/) and [U.S. Cyber Command (USCYBERCOM)](https://www.cybercom.mil/) provide community support, best practices, and advanced techniques shared by experts in the field. The USCYBERCOM website is an invaluable source for understanding current cyber threats and defense strategies.
 - **Peer Discussions and Collaborative Projects:** Engaging with fellow students and colleagues through group projects and discussions fosters knowledge sharing and collaboration, leading to a deeper understanding of complex concepts.
 
-### <h2 id="Summary-Statement">**Summary Statement**</h3>
+### <h2 id="Summary-Statement">**Summary Statement**</h2>
 
 My pathway to mastery through the [CIDM](https://www.wtamu.edu/academics/college-business/about-us/cidm-department/index.html) curriculum has provided a robust skill set and a comprehensive understanding of various tools and techniques in Networking and Cybersecurity. While I have developed proficiency in several areas, there are opportunities for growth, particularly in advanced network security, cryptography, automation, and cloud security. I am confident in my ability to leverage this knowledge to contribute effectively to future projects and deliver secure and innovative network solutions.
 
-### <h2 id="Contribution-Towards-the-Capstone">**Contribution Towards the Capstone**</h3>
+### <h2 id="Contribution-Towards-the-Capstone">**Contribution Towards the Capstone**</h2>
 
 **Why Networking and Cybersecurity is Integrable with Other Areas:**
 The courses emphasize the integral role of networking and cybersecurity in various domains. The comprehensive introduction to network technologies, security protocols, and ethical considerations highlights its importance in building robust and secure systems. These courses equip students with essential skills in designing secure networks, conducting vulnerability assessments, and implementing incident response plans. By leveraging tools like Wireshark and Nmap, the courses illustrate how networking and cybersecurity drive innovation and improve business outcomes.
@@ -113,10 +113,10 @@ The knowledge and skills gained from these courses can be directly applied to yo
 <ins>**New Statement on Integration:**</ins></br>
 **Networking and cybersecurity serve as the foundational layer that protects data management, data analytics, and software systems. By designing secure network architectures and implementing robust security protocols, we can create systems that securely manage data, analyze it for actionable insights, and ensure software system integrity. In the capstone project, I plan to create a system that not only securely collects and stores data (networking/cybersecurity and data management) but also uses data analytics to provide actionable insights for decision-making (data analytics and software systems). Specifically, the vulnerability assessment and penetration testing skills will be crucial for ensuring the security and integrity of the integrated system.**
 
-### <h2 id="Preparedness-for-Portfolio-and-Prototype-Project">**Preparedness for Portfolio and Prototype Project**</h3>
+### <h2 id="Preparedness-for-Portfolio-and-Prototype-Project">**Preparedness for Portfolio and Prototype Project**</h2>
 
 I am well-prepared to apply my networking and cybersecurity skills in the capstone project, leveraging my knowledge to create a comprehensive portfolio and a prototype project that showcases my proficiency and capability in delivering secure and impactful solutions.
 
-### <h2 id="Conclusion">**Conclusion**</h3>
+### <h2 id="Conclusion">**Conclusion**</h2>
 
 The assessment of my competencies in Networking and Cybersecurity reveals a solid foundation, with identified areas for improvement, such as advanced cryptography and cloud security. By continually enhancing my skills and knowledge in these areas, I am poised to contribute significantly to the capstone project and future endeavors, delivering robust and innovative network security solutions.
